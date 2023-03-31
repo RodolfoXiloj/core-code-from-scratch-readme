@@ -6,12 +6,12 @@
 <pre>
   <code>
 &lt;pizza&gt;
-  &lt;1 pass="Making the Pizza Dough"&gt;
+  &lt;1 step="Making the Pizza Dough"&gt;
     &lt;1.1&gt;Proof the yeast&lt;/1.1&gt;
     &lt;1.2&gt;Make and knead the pizza dough&lt;/1.2&gt;
     &lt;1.3&gt;Let the dough rise&lt;/1.3&gt;       
   &lt;/1&gt;
-  &lt;2 pass="Preparing the Pizzas"&gt;
+  &lt;2 step="Preparing the Pizzas"&gt;
     &lt;2.1&gt;Preheat the pizza stone (or pizza pan or baking sheet)&lt;/2.1&gt;
     &lt;2.2&gt;Divide the dough into 2 balls&lt;/2.2&gt;
     &lt;2.3&gt;Prep the toppings&lt;/2.3&gt;
