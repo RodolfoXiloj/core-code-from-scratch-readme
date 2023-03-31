@@ -31,10 +31,10 @@
 <pre>
   <code>
 &lt;convertion for="Celsius to Fahrenheit"&gt;
-  &lt;1 &gt;
+  &lt;1&gt;
     Take the Celsius temperature input from the user      
   &lt;/1&gt;
-  &lt;2 &gt;
+  &lt;2&gt;
     Multiply the Celsius temperature by 1.8
   &lt;/2&gt;
   &lt;3&gt;
@@ -45,10 +45,10 @@
   &lt;/4&gt;
 &lt;/convertion&gt;
 &lt;convertion for="Fahrenheit to Celsius Conversion"&gt;
-  &lt;1 &gt;
+  &lt;1&gt;
     Take the Fahrenheit temperature input from the user     
   &lt;/1&gt;
-  &lt;2 &gt;
+  &lt;2&gt;
     Subtract 32 from the Fahrenheit temperature
   &lt;/2&gt;
   &lt;3&gt;
