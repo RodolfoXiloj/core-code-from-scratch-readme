@@ -1,8 +1,6 @@
 # core-code-from-scratch-readme
 
-<h1>
-  Let's make pizza 🍕
-</h1>
+<h1>Let's make pizza 🍕</h1>
 <pre>
   <code>
 &lt;pizza&gt;
@@ -27,3 +25,38 @@
   </code>
 </pre>
 
+<br>
+
+<h1>Hot N Cold 🤒 🧊 🔥</h1>
+<pre>
+  <code>
+&lt;convertion for="Celsius to Fahrenheit"&gt;
+  &lt;1 &gt;
+    Take the Celsius temperature input from the user      
+  &lt;/1&gt;
+  &lt;2 &gt;
+    Multiply the Celsius temperature by 1.8
+  &lt;/2&gt;
+  &lt;3&gt;
+    Add 32 to the result obtained in step 2
+  &lt;/3&gt;
+  &lt;4&gt;
+    The resulting value is the temperature in Fahrenheit
+  &lt;/4&gt;
+&lt;/convertion&gt;
+&lt;convertion for="Fahrenheit to Celsius Conversion"&gt;
+  &lt;1 &gt;
+    Take the Fahrenheit temperature input from the user     
+  &lt;/1&gt;
+  &lt;2 &gt;
+    Subtract 32 from the Fahrenheit temperature
+  &lt;/2&gt;
+  &lt;3&gt;
+    Divide the result obtained in step 2 by 1.8
+  &lt;/3&gt;
+  &lt;4&gt;
+    The resulting value is the temperature in Celsius
+  &lt;/4&gt;
+&lt;/convertion&gt;
+  </code>
+</pre>
