@@ -20,7 +20,9 @@
     &lt;2.8&gt;Slide pizza into the oven&lt;/2.8&gt;
     &lt;2.9&gt;Bake&lt;/2.9&gt;
   &lt;/2&gt;
-  &lt;3&gt;Remove the pizza from the oven and let it cool for a few minutes before slicing it into portions&lt;/3&gt;
+  &lt;3&gt;
+    Remove the pizza from the oven and let it cool for a few minutes before slicing it into portions
+  &lt;/3&gt;
 &lt;/pizza&gt;
   </code>
 </pre>
