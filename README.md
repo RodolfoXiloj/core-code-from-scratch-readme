@@ -62,3 +62,53 @@
 &lt;/convertion&gt;
   </code>
 </pre>
+
+<br>
+
+<h1>Some geometry 📐</h1>
+<pre>
+  <code>
+&lt;calculate to="calculate the volume of a pyramid"&gt;
+  <input value="Base length, Base width, and Height of the pyramid">
+  <output value="Volume of the pyramid">
+  &lt;1 &gt;
+    Read the values of Base length, Base width, and Height of the pyramid    
+  &lt;/1&gt;
+  &lt;2 &gt;
+    Calculate the area of the base of the pyramid using the formula Base area = Base length × Base width
+  &lt;/2&gt;
+  &lt;3&gt;
+    Calculate the volume of the pyramid using the formula Volume = 1/3 × Base area × Height
+  &lt;/3&gt;
+  &lt;4&gt;
+    Display the calculated volume of the pyramid
+  &lt;/4&gt;
+&lt;/calculate&gt;
+&lt;calculate to="volume of a cube"&gt;
+  <input value="Length of each side of the cube">
+  <output value="Volume of the cube">
+  &lt;1 &gt;
+    Read the value of Length of each side of the cube     
+  &lt;/1&gt;
+  &lt;2 &gt;
+    Calculate the volume of the cube using the formula Volume = Length × Width × Height = a³ (since all sides are equal)
+  &lt;/2&gt;
+  &lt;3&gt;
+    Display the calculated volume of the cube
+  &lt;/3&gt;
+&lt;/calculate&gt;
+&lt;calculate to="volume of a sphere"&gt;
+  <input value="Radius of the sphere">
+  <output value="Volume of the sphere">
+  &lt;1 &gt;
+    Read the value of Radius of the sphere     
+  &lt;/1&gt;
+  &lt;2 &gt;
+    Calculate the volume of the sphere using the formula Volume = (4/3) × π × r³
+  &lt;/2&gt;
+  &lt;3&gt;
+    Display the calculated volume of the sphere
+  &lt;/3&gt;
+&lt;/calculate&gt;
+  </code>
+</pre>
