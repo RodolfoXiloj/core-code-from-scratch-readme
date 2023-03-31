@@ -71,10 +71,10 @@
 &lt;calculate to="calculate the volume of a pyramid"&gt;
   &lt;input value="Base length, Base width, and Height of the pyramid"&lt;
   &lt;output value="Volume of the pyramid"&lt;
-  &lt;1 &gt;
+  &lt;1&gt;
     Read the values of Base length, Base width, and Height of the pyramid    
   &lt;/1&gt;
-  &lt;2 &gt;
+  &lt;2&gt;
     Calculate the area of the base of the pyramid using the formula Base area = Base length × Base width
   &lt;/2&gt;
   &lt;3&gt;
@@ -87,7 +87,7 @@
 &lt;calculate to="volume of a cube"&gt;
   &lt;input value="Length of each side of the cube"&lt;
   &lt;output value="Volume of the cube"&lt;
-  &lt;1 &gt;
+  &lt;1&gt;
     Read the value of Length of each side of the cube     
   &lt;/1&gt;
   &lt;2 &gt;
@@ -100,10 +100,10 @@
 &lt;calculate to="volume of a sphere"&gt;
   &lt;input value="Radius of the sphere"&lt;
   &lt;output value="Volume of the sphere"&lt;
-  &lt;1 &gt;
+  &lt;1&gt;
     Read the value of Radius of the sphere     
   &lt;/1&gt;
-  &lt;2 &gt;
+  &lt;2&gt;
     Calculate the volume of the sphere using the formula Volume = (4/3) × π × r³
   &lt;/2&gt;
   &lt;3&gt;
