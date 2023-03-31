@@ -69,8 +69,8 @@
 <pre>
   <code>
 &lt;calculate to="calculate the volume of a pyramid"&gt;
-  <input value="Base length, Base width, and Height of the pyramid">
-  <output value="Volume of the pyramid">
+  &lt;input value="Base length, Base width, and Height of the pyramid"&lt;
+  &lt;output value="Volume of the pyramid"&lt;
   &lt;1 &gt;
     Read the values of Base length, Base width, and Height of the pyramid    
   &lt;/1&gt;
@@ -85,8 +85,8 @@
   &lt;/4&gt;
 &lt;/calculate&gt;
 &lt;calculate to="volume of a cube"&gt;
-  <input value="Length of each side of the cube">
-  <output value="Volume of the cube">
+  &lt;input value="Length of each side of the cube"&lt;
+  &lt;output value="Volume of the cube"&lt;
   &lt;1 &gt;
     Read the value of Length of each side of the cube     
   &lt;/1&gt;
@@ -98,8 +98,8 @@
   &lt;/3&gt;
 &lt;/calculate&gt;
 &lt;calculate to="volume of a sphere"&gt;
-  <input value="Radius of the sphere">
-  <output value="Volume of the sphere">
+  &lt;input value="Radius of the sphere"&lt;
+  &lt;output value="Volume of the sphere"&lt;
   &lt;1 &gt;
     Read the value of Radius of the sphere     
   &lt;/1&gt;
