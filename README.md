@@ -1,6 +1,10 @@
 # core-code-from-scratch-readme
-<h1>Week challenges (Wednesday) 💻</h1>
-<h2>Let's make pizza 🍕</h2>
+
+
+<h1>Algorithms - Week 1</h1>
+
+<h2>Week challenges (Wednesday) 💻</h2>
+<h3>Let's make pizza 🍕</h3>
 <pre>
   <code>
 &lt;pizza&gt;
@@ -29,7 +33,7 @@
 
 <br>
 
-<h2>Hot N Cold 🤒 🧊 🔥</h2>
+<h3>Hot N Cold 🤒 🧊 🔥</h3>
 <pre>
   <code>
 &lt;convertion for="Celsius to Fahrenheit"&gt;
@@ -65,7 +69,7 @@
 
 <br>
 
-<h2>Some geometry 📐</h2>
+<h3>Some geometry 📐</h3>
 <pre>
   <code>
 &lt;calculate to="calculate the volume of a pyramid"&gt;
@@ -112,3 +116,17 @@
 &lt;/calculate&gt;
   </code>
 </pre>
+
+
+<h3>Numbers 📈</h3>
+
+1. Input the number
+2. Check if the number is divisible by 2.
+3. If the number is divisible by 2, then print "The number is even."
+4. Otherwise, print "The number is odd."
+
+```mermaid
+flowchart TD
+    A[Input the number] --> B{Is the number divisible by 2?}
+    B -->|Yes| C[The number is even] --> E[End]
+    B -->|No| D[The number is odd] --> E[End]
