@@ -168,6 +168,8 @@ write age; //result = 21
 
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/29307118/202836372-19159ef8-14d5-4ecf-b08c-819b05e79f81.png" style="max-width: 50%;">
 
+We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies.
+
 1. Left chest: The middle chest has a treasure
   * The chest B doesn't has a treasure in it.
   * The chests A and C can have treasures in them.
