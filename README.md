@@ -130,3 +130,32 @@ flowchart TD
     A[Input the number] --> B{Is the number divisible by 2?}
     B -->|Yes| C[The number is even] --> E[End]
     B -->|No| D[The number is odd] --> E[End]
+
+
+<h3>Numbers 📈</h3>
+
+1.Input date_birth in the fomat 'DD/MM/YYYY' as a object type Date
+2.Get the current_date as a object type Date
+3.Calculate the difference between the current year and the birth year
+4.If the current month is less than the birth month, subtract one from the difference
+5.If the current month is equal to the birth month and the current day is less than the birth day, subtract one from the difference
+6.Return the difference as the person's age
+
+<h5>example:</h5>
+<pre>
+  <code>
+Date date_birth;
+read date_birth; //input '03/04/2001'
+Date current_date = DateNow(); //value = '02/04/2023'
+Number age = current_date.Year - date_birth.Year; //2023 - 2001 = 22
+if date_birth.Month > current_date.Month then
+        //04            //04
+    age = age - 1; //22 -1 = 21
+else if date_birth.Month == current_date.Month then
+    if date_birth.Day > current_date.Day then
+        //03                //02
+        age = age - 1;
+
+write age; //result = 21
+  </code>
+</pre>
