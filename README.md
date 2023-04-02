@@ -167,6 +167,7 @@ write age; //result = 21
 <h3>Find the treasure 👑</h3>
 
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/29307118/202836372-19159ef8-14d5-4ecf-b08c-819b05e79f81.png" style="max-width: 50%;">
+
 1. Left chest: The middle chest has a treasure
   * The chest B doesn't has a treasure in it.
   * The chests A and C can have treasures in them.
@@ -175,7 +176,7 @@ write age; //result = 21
   * Max two chests can have treasures in them.
 3. Right chest: Only one of these chests has treasures.
   * More that one can have treasures in them.
-  * two chest has treasures in them.
+  * Two chest has treasures in them.
 
 
 <b>Answer: the chest A and C has a treasure in it.</b>
