@@ -138,12 +138,12 @@ flowchart TD
 
 <h3>How old are you 👴</h3>
 
-1.Input date_birth in the fomat 'DD/MM/YYYY' as a object type Date
-2.Get the current_date as a object type Date
-3.Calculate the difference between the current year and the birth year
-4.If the current month is less than the birth month, subtract one from the difference
-5.If the current month is equal to the birth month and the current day is less than the birth day, subtract one from the difference
-6.Return the difference as the person's age
+1. Input date_birth in the fomat 'DD/MM/YYYY' as a object type Date.
+2. Get the current_date as a object type Date.
+3. Calculate the difference between the current year and the birth year.
+4. If the current month is less than the birth month, subtract one from the difference.
+5. If the current month is equal to the birth month and the current day is less than the birth day, subtract one from the difference.
+6. Return the difference as the person's age.
 
 <h5>example:</h5>
 <pre>
@@ -167,15 +167,15 @@ write age; //result = 21
 <h3>Find the treasure 👑</h3>
 
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/29307118/202836372-19159ef8-14d5-4ecf-b08c-819b05e79f81.png" style="max-width: 50%;">
-1.Left chest: The middle chest has a treasure
-  *The chest B doesn't has a treasure in it.
-  *The chests A and C can have treasures in them.
-2.Middle chest: All these chests have treasures in them
-  *Don't all these chests have treasures.
-  *Max two chests can have treasures in them.
-3.Right chest: Only one of these chests has treasures.
-  *More that one can have treasures in them.
-  *two chest has treasures in them.
+1. Left chest: The middle chest has a treasure
+  * The chest B doesn't has a treasure in it.
+  * The chests A and C can have treasures in them.
+2. Middle chest: All these chests have treasures in them
+  * Don't all these chests have treasures.
+  * Max two chests can have treasures in them.
+3. Right chest: Only one of these chests has treasures.
+  * More that one can have treasures in them.
+  * two chest has treasures in them.
 
 
 <b>Answer: the chest A and C has a treasure in it.</b>
