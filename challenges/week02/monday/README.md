@@ -31,33 +31,34 @@ The teacher knows that only those who studied would be telling the truth and tho
 <h3>Which comes first, cereal or milk? 🍱</h3>
 
 1. Get a bowl and a spoon.
-2. Open the cereal box and pour the desired amount of cereal into the bowl.
-3. Close the cereal box and put it back in its place.
-4. Get the milk from the refrigerator and pour the desired amount into the bowl.
-5. Put the milk back in the refrigerator.
-6. Use the spoon to mix the cereal and milk.
+2. Ask the user whether they want to pour the milk or the cereal first.
+3. If the user chooses to pour the milk first, go to step 4. If the user chooses to pour the cereal first, go to step 6.
+4. Get a measuring cup and pour the desired amount of milk into it.
+5. Pour the milk from the measuring cup into the bowl.
+6. Get the cereal box and open it.
+7. Pour the desired amount of cereal into the bowl.
+8. Close the cereal box and put it back in its place.
+9. If the user chose to pour the milk first, go to step 10. If the user chose to pour the cereal first, go to step 12.
+10. Use the spoon to mix the cereal and milk.
+11. Enjoy your cereal!
+12. Pour the desired amount of milk into the bowl.
+13. Use the spoon to mix the cereal and milk.
+14. Enjoy your cereal!
 
 ```mermaid
 flowchart TD
-    A[Get a bowl and a spoon] --> B[Open the cereal box and pour the desired amount of cereal into the bowl]
-    B --> C[Close the cereal box and put it back in its place]
-    C --> D[Get the milk from the refrigerator and pour the desired amount into the bowl]
-    D --> E[Put the milk back in the refrigerator]
-    E --> F[Use the spoon to mix the cereal and milk]
-    F --> G[End]
-``` 
-
-1. Get a bowl and a spoon.
-2. Get the milk from the refrigerator and pour the desired amount into the bowl.
-3. Open the cereal box and pour the desired amount of cereal into the bowl.
-4. Close the cereal box and put it back in its place.
-5. Use the spoon to mix the cereal and milk.
-
-```mermaid
-flowchart TD
-    A[Get a bowl and a spoon] --> B[Get the milk from the refrigerator and pour the desired amount into the bowl]
-    B --> C[Open the cereal box and pour the desired amount of cereal into the bowl]
-    C --> D[Close the cereal box and put it back in its place]
-    D --> E[Use the spoon to mix the cereal and milk]
-    E --> F[End]
+    A[Get a bowl and a spoon] --> B[Ask the user whether they want to pour the milk or the cereal first]
+    B -- Pour milk first --> C[Get a measuring cup and pour the desired amount of milk into it]
+    C --> D[Pour the milk from the measuring cup into the bowl]
+    D --> E[Get the cereal box and open it]
+    E --> F[Pour the desired amount of cereal into the bowl]
+    F --> G[Close the cereal box and put it back in its place]
+    G -- Mix the cereal and milk --> H[Use the spoon to mix the cereal and milk]
+    H --> I[Enjoy your cereal!]
+    B -- Pour cereal first --> J[Get the cereal box and open it]
+    J --> K[Pour the desired amount of cereal into the bowl]
+    K --> L[Close the cereal box and put it back in its place]
+    L -- Pour milk --> M[Pour the desired amount of milk into the bowl]
+    M -- Mix the cereal and milk --> N[Use the spoon to mix the cereal and milk]
+    N --> O[Enjoy your cereal!]
 ``` 
