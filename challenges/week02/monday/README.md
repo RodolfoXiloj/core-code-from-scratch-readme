@@ -53,7 +53,7 @@ flowchart TD
     D --> E[Get the cereal box and open it]
     E --> F[Pour the desired amount of cereal into the bowl]
     F --> G[Close the cereal box and put it back in its place]
-    G -- Mix the cereal and milk --> M[Use the spoon to mix the cereal and milk]
+    G -- Mix the cereal and milk --> N[Use the spoon to mix the cereal and milk]
     B -- Pour cereal first --> J[Get the cereal box and open it]
     J --> K[Pour the desired amount of cereal into the bowl]
     K --> L[Close the cereal box and put it back in its place]
