@@ -3,7 +3,7 @@
 1. Logic problem
 2. Cereal vrs Milk
 
-## Week challenges (Tuesday) 💻
+## [Week challenges (Tuesday) 💻](./tuesday/)
 
 1. Install PSeInt
 2. Print my name
