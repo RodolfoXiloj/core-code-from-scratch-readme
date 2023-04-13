@@ -12,7 +12,7 @@ FinAlgoritmo
 </br>
 
 <h2>Week challenges (Wednesday) 💻</h2>
-<h3>Print my name & age📝</h3>
+<h3>Print my name & age 📝</h3>
 <pre>
   <code>
 Algoritmo myNameAndAge
