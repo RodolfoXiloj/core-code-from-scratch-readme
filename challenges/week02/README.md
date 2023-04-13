@@ -9,7 +9,7 @@
 2. Print my name
 3. Print my name & age
 
-## Week challenges (Wednesday) 💻
+## [Week challenges (Wednesday) 💻](./wednesday/)
 
 1. Algorithm game
 2. Mod
