@@ -15,7 +15,7 @@
 2. Mod
 3. Register form
 
-## Week challenges (Thursday) 💻
+## [Week challenges (Thursday) 💻](./tuesday/)
 
 1. Truth tables
 2. Boolean results
