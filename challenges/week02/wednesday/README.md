@@ -38,7 +38,6 @@ Algoritmo RegisterForm
 	Leer email
 	Imprimir 'Write your address'
 	Leer  address
-	
 	Imprimir '-------------'
 	Imprimir 'User Information'
 	Imprimir '-------------'
