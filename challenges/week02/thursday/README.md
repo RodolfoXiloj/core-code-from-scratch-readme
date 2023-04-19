@@ -49,8 +49,7 @@ Algoritmo EvenOdd
 	Imprimir  'Write the number'
 	Leer number
 	Si number %  2 == 0 Entonces
-		Imprimir  'The number is even'
-		
+		Imprimir  'The number is even'	
 	SiNo
 		Imprimir 'The number is odd'
 	FinSi

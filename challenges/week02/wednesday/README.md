@@ -1,4 +1,3 @@
-
 <h2>Week challenges (Wednesday) 💻</h2>
 
 <h3>Algorithm game 🚀</h3>
