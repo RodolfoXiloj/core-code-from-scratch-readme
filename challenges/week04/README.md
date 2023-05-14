@@ -8,3 +8,11 @@
 * Predefined functions
 1. Full name
 2. Throw dice
+
+## [Week challenges (Wednesday) 💻](./wednesday/)
+1. Distance to zero
+2. Toss coin
+
+## [Week challenges (Thursday) 💻](./wednesday/)
+1. Total price
+2. Reverse direction and size
