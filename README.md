@@ -7,3 +7,4 @@
 ## [Week 5 : Pseudocode & Javascript](./challenges/week05/)
 ## [Week 6 : JavaScript](./challenges/week06/)
 ## [Week 7 : JavaScript](./challenges/week07/)
+## [Week 8 : JavaScript](./challenges/week08/)
